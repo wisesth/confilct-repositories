@@ -1,4 +1,5 @@
 # confict-repositories
 테스트 입니다
-confilct 를 테스트하려고 합니다
+confilct 버그가 있어서 메인에서 수정했습니다...
+버그 싫어....
 
